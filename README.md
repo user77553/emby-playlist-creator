@@ -14,3 +14,5 @@ Create an Emby playlist just by selecting a folder.
 2. Paste the path in Folder path input field.
 3. Input a playlist name and click Create.
 4. Once created move the playlist into Emby playlist folder to load.
+
+![plot](Emby.Playlist.Creator.png)
