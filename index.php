@@ -83,7 +83,6 @@ if (isset($path) && !$path) $message = 'folder';
     <link rel="icon" type="image/png" href="emby-icon.png"/>
     <link href="epc.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-    <script type="text/javascript" src="epc.js"></script>
     <title>Emby Playlist Creator</title>
 </head>
 <body>
